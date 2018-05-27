@@ -1,5 +1,5 @@
 # **Project Review**
-Thisis a Xamarin App, for entry practice.
+This is a Xamarin App, for entry practice.
 
 About Tic-Tac-Toe game, please check [wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
 or [play online](https://www.google.com/search?q=tic+tac+toe)

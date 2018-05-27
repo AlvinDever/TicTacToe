@@ -8,7 +8,8 @@ Stack | Technique
 --- | ---
 Langage | C#
 IDE | Vistual Studio 2017
-#Screen shots#
+
+# Screen shots #
 ![截图1](https://github.com/AlvinDever/TicTacToe/blob/master/ScreenShots/01.png)
 
 ![截图1](https://github.com/AlvinDever/TicTacToe/blob/master/ScreenShots/02.png)
